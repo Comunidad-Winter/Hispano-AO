@@ -1,4 +1,4 @@
-[INIT]
+ï»¿[INIT]
 NumArmas=27
 
 [Arma1] ' Daga
@@ -49,7 +49,7 @@ Index=399
 [Arma16] ' Espada Vikinga
 Index=123
 
-[Arma17] ' Hacha de Bárbaro
+[Arma17] ' Hacha de BÃ¡rbaro
 Index=159
 
 [Arma18] ' Katana
@@ -79,5 +79,5 @@ Index=187
 [Arma26] ' Serrucho
 Index=198
 
-[Arma27] ' Hacha de Leñador
+[Arma27] ' Hacha de LeÃ±ador
 Index=127

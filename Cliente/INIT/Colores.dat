@@ -1,4 +1,4 @@
-permite customizar los colores de los PJs
+﻿permite customizar los colores de los PJs
 'todos los valores deben estar entre 0 y 255
 'los rangos van de 1 a 48 (inclusive). El 0 y el 49,50 estan reservados. Mas arriba son ignorados.
 

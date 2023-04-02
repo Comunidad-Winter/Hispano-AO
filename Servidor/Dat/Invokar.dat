@@ -1,4 +1,4 @@
-'#################### LISTA DE SPAWN #############################
+ï»¿'#################### LISTA DE SPAWN #############################
 [INIT]
 NumNPCs=20
 
@@ -32,16 +32,16 @@ NI9=508
 NN9=Esqueleto Guerrero
 
 NI10=509
-NN10=Dragón Rojo
+NN10=DragÃ³n Rojo
 
 NI11=510
-NN11=Araña Gigante
+NN11=AraÃ±a Gigante
 
 NI12=523
 NN12=Orco
 
 NI13=529
-NN13=Escorpión
+NN13=EscorpiÃ³n
 
 NI14=530
 NN14=Bandido
