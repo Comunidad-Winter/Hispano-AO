@@ -1,0 +1,41 @@
+[INIT]
+NroGuilds=2
+[GUILD1]
+Founder=amishar
+GuildName=HAO
+SecGuildName=HAO
+Date=12/11/2015
+Antifaccion=0
+Alineacion=Neutral
+Codex1=asda
+Codex2=asdasdas
+Codex3=asdasd
+Codex4=as
+Codex5=d
+Codex6=dasdasd
+Codex7=sdasdas
+Codex8=sdasd
+Desc=asdas
+GuildNews=Clan creado con alineación: Neutral
+Leader=amishar
+URL=
+[GUILD2]
+Founder=TESTER CLAN
+GuildName=asdasd
+SecGuildName=asdasd
+Date=21/11/2015
+Antifaccion=0
+Alineacion=Neutral
+Codex1=as
+Codex2=as
+Codex3=as
+Codex4=as
+Codex5=
+Codex6=
+Codex7=
+Codex8=
+Desc=as
+GuildNews=*El período de votación se cerró sin votos*
+Leader=TESTER CLAN
+URL=a
+EleccionesAbiertas=0
