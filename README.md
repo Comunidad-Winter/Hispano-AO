@@ -1,3 +1,3 @@
 # Hispano-AO
 
-![alt text](https://media.discordapp.net/attachments/928396167002325123/930505929810644992/12-09-2015hhhh01_29_24.jpg?width=384&height=288)
+![Captura de pantalla 2025-03-31 175622](https://github.com/user-attachments/assets/4ef43207-d961-44b7-9498-390c8db0441c)
